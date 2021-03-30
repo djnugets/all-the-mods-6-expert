@@ -1,0 +1,10 @@
+{
+	id: "37760B42C6B06556",
+	group: "02FE661031A105D8",
+	order_index: 2,
+	filename: "ars_nouveau",
+	title: "Ars Nouveau",
+	icon: "ars_nouveau:dominion_wand",
+	default_quest_shape: "",
+	quests: []
+}

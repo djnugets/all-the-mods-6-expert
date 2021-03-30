@@ -1,0 +1,16 @@
+{
+	id: "218A1404F768980A",
+	group: "2B51AC12041E3F89",
+	order_index: 6,
+	filename: "pneumaticcraft_repressurized",
+	title: "PneumaticCraft: Repressurized",
+	icon: {
+		id: "pneumaticcraft:logistics_configurator",
+		Count: 1b,
+		tag: {
+			"pneumaticcraft:air": 30000
+		}
+	},
+	default_quest_shape: "",
+	quests: []
+}

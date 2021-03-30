@@ -1,0 +1,10 @@
+{
+	id: "16956970FF49BB4D",
+	group: "264AAD9C33AF29A5",
+	order_index: 0,
+	filename: "creative",
+	title: "Creative ",
+	icon: "simplyjetpacks:jetpack_creative",
+	default_quest_shape: "",
+	quests: []
+}
