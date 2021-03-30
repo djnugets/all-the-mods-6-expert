@@ -1,0 +1,10 @@
+{
+	id: "0C3E6FFC1528C8EC",
+	group: "2B51AC12041E3F89",
+	order_index: 4,
+	filename: "powah",
+	title: "Powah",
+	icon: "powah:energy_cable_nitro",
+	default_quest_shape: "",
+	quests: []
+}

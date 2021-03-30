@@ -1,0 +1,10 @@
+{
+	id: "0E618EA7997FDD23",
+	group: "2B51AC12041E3F89",
+	order_index: 2,
+	filename: "industrial_foregoing",
+	title: "Industrial Foregoing",
+	icon: "industrialforegoing:straw",
+	default_quest_shape: "",
+	quests: []
+}

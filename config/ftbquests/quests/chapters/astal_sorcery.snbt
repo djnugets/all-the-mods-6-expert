@@ -1,0 +1,21 @@
+{
+	id: "70AE2F21054AD796",
+	group: "02FE661031A105D8",
+	order_index: 1,
+	filename: "astal_sorcery",
+	title: "Astal Sorcery",
+	icon: "astralsorcery:starmetal_ingot",
+	default_quest_shape: "",
+	quests: [{
+		x: -1.0d,
+		y: -1.5d,
+		id: "775EEE37610AD59F",
+		tasks: [{
+			id: "189985C0216F3D34",
+			type: "advancement",
+			title: "Shoot me",
+			advancement: "I can see the light",
+			criterion: "I can see the light"
+		}]
+	}]
+}

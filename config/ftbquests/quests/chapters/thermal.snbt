@@ -1,0 +1,10 @@
+{
+	id: "728D4E3B4A63C09E",
+	group: "2B51AC12041E3F89",
+	order_index: 7,
+	filename: "thermal",
+	title: "Thermal",
+	icon: "thermal:tin_gear",
+	default_quest_shape: "",
+	quests: []
+}
