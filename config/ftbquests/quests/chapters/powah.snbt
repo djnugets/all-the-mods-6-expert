@@ -182,7 +182,7 @@
 		{
 			x: -3.5d,
 			y: 5.0d,
-			description: ["Reactors are the main power source of this mod and in order to maximaize the power generation of a reactor it needs to be cooled and thats were blue ice comes in. Blue ice is the best coolant you can have in a powah reactor at the time of writing this. There are other options more early game friendly such as water but if you cant quite get your hands on blue ice just yet and want better cooling than water then look at the uses of a reactor in JEI and look for the coolants there you will find other options to your cooling needs."],
+			description: ["Reactors are the main power source of this mod and in order to maximaize the power generation of a reactor it needs to be cooled and thats were dry ice comes in. Dry ice is the best coolant you can have in a powah reactor at the time of writing this. There are other options more early game friendly such as water but if you cant quite get your hands on dry ice just yet and want better cooling than water then look at the uses of a reactor in JEI and look for the coolants there you will find other options to your cooling needs."],
 			dependencies: ["034A97E587D10974"],
 			id: "3153A8953C157D0E",
 			tasks: [{
